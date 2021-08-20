@@ -1,0 +1,58 @@
+/* {
+    box-sizing: border-box;
+}*/
+
+body {
+    max-width: 35vw;
+    max-height: 850px;
+    border: solid 3px blue;
+    margin: 5%;
+}
+
+p {
+    margin: 25px 50px 75px 100px
+}
+
+.p1 {
+    border: solid 8px red;
+    background-color: red;
+    color: white;
+     border-radius: 5px;
+}
+
+.p2 {
+    border: solid 7px green;
+    background-color: green;
+    color: white;
+}
+
+.p3 {
+    border: dashed 5px gray;
+    background-color: gray;
+    color: white;
+}
+
+.p4 {
+    border: dotted 8px #ef5570;
+    background-color: #ef5570;
+    color: white;
+}
+
+.p5 {
+    border: double 15px #a24939;
+    background-color: #a24939;
+    color: white;
+}
+
+.p6 {
+    border: double 4px #4eb9aa;
+    border-radius: 1px;
+    background-color: #4eb9aa;
+    color: white;
+}
+
+.p7 {
+    border: outset 8px rgb(24, 13, 13);
+    background-color: rgb(24, 13, 13);
+    color: white;
+}
